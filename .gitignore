@@ -1,0 +1,3 @@
+*.pyc
+*_so.so
+*_g.cu.o
